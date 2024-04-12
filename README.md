@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to create a generative AI-based application utilizing the Gemini AI API. It facilitates summarization of context, question answering, and code analysis.
+This project aims to create a generative AI-based application utilizing the Gemini AI API. It facilitates summarization of context, question answering of given list of docuemnts.
 
 ## Getting Started
 
