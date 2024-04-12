@@ -32,7 +32,7 @@ GOOGLE_API_KEY = your_api_token_here
 Execute the following command to run the main file:
 
 ```bash
-streamlit run run.py
+streamlit run webpage.py
 ```
 
 This will start the generative AI application using the Gemini AI API.
