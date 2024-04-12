@@ -1,0 +1,6 @@
+langchain_google_genai
+langchain 
+unstructured
+chromadb
+pymongo
+langchain-community
